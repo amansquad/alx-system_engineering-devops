@@ -1,2 +1,2 @@
 #!/bin/bash
-sudo chown betty hello | whoami
+sudo chown betty hello | ls -l hello | awk '{print $3}'
