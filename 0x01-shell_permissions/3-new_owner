@@ -1,2 +1,3 @@
 #!/bin/bash
-sudo chwon hello betty
+sudo chown betty hello
+$ ls -l file | awk '{ print $3}'
