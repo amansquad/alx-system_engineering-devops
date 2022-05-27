@@ -1,1 +1,2 @@
-cp -R *.html $(pwd)/../
+#!/bin/bash
+cp -R *.html $(pwd)/../ 
