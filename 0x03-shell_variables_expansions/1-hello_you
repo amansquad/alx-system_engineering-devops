@@ -1,2 +1,2 @@
 #!/bin/bash
-alias p="echo 'Hello $USER'"
+alias p="echo 'MyUser'"
